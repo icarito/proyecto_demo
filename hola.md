@@ -1,6 +1,6 @@
-Hola!
+¡Hola!
 
-y Chau!
+Y chau.
 
 Atentamente,
 Sebastian
