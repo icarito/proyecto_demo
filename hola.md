@@ -1,6 +1,7 @@
-Hola queridas!
+¡Hola queridas!
 
-y Chau!
+
+Y chau.
 
 Gracias
 
